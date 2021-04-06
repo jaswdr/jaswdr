@@ -7,7 +7,7 @@
 - 💻 Created: @codeepblue, [faker](https://github.com/jaswdr/faker), etc…
 - 👊 Co-created: [Hackerspace Blumenau](http://www.hackerspaceblumenau.org/), [Buteco Opensource](https://www.butecopensource.com.br/), [Buteco.tech](https://buteco.tech/), [GDG Blumenau](https://www.meetup.com/pt-BR/GDG-Blumenau/)
 - 🌱 Working and Learning all about **Open Source**
-- 🎙 Currently hosting [Buteco.tech](https://buteco.tech)
+- 📚 Currently writing [jaswdr.dev](https://jaswdr.dev)
 - 💬 Ping me about **development**, **data analytics**, **infra**, **containers**
 - 📫 Reach me: [twitter.com/jaswdr](https://twitter.com/jaswdr)
 - 😺️ Fun fact: I love cats 🐈 
