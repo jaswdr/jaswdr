@@ -1,13 +1,1 @@
-### Hi there 👋
-
-#### I'm a Software Engineer working in Dublin, Ireland.
-
-- 🏢 I'm currently working at **Amazon Web Services**
-- ⚙️ I use daily: `python`, `go`, `dynamodb`, `s3`, `ec2`, `lambda`, etc...
-- 💻 Created: @codeepblue, [faker](https://github.com/jaswdr/faker), etc…
-- 👊 Co-created: [Hackerspace Blumenau](http://www.hackerspaceblumenau.org/), [Buteco Opensource](https://www.butecopensource.com.br/), [Buteco.tech](https://buteco.tech/), [GDG Blumenau](https://www.meetup.com/pt-BR/GDG-Blumenau/)
-- 🌱 Working and Learning all about **Open Source**
-- 📚 Currently writing [jaswdr.dev](https://jaswdr.dev)
-- 💬 Ping me about **development**, **data analytics**, **infra**, **containers**
-- 📫 Reach me: [twitter.com/jaswdr](https://twitter.com/jaswdr)
-- 😺️ Fun fact: I love cats 🐈 
+![Metrics](https://metrics.lecoq.io/jaswdr?template=classic&languages=1&introduction=1&rss=1&notable=1&achievements=1&activity=1&lines=1&gists=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=10&notable.repositories=false&rss.source=https%3A%2F%2Fjaswdr.dev%2Fblog%2Findex.xml&rss.limit=4&config.timezone=Europe%2FDublin)
