@@ -1730,7 +1730,7 @@ It seems that the URL is wrong.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.3514948843544 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.3550159902968 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1792,7 +1792,7 @@ It seems that the URL is wrong.
                   Super developer
                   
                     <span class="gh">
-                      ranked 372k out of 73m users
+                      ranked 372k out of 74m users
                     </span>
                   
                 </div>
@@ -1809,7 +1809,7 @@ It seems that the URL is wrong.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="65.44875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="66.68875 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1833,11 +1833,11 @@ It seems that the URL is wrong.
                   Great maintainer
                   
                     <span class="gh">
-                      ranked 10.8k out of 238m repositories
+                      ranked 10.7k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 2689 stars</div>
+                                <div class="text">Maintaining a repository with 2721 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2034,7 +2034,7 @@ It seems that the URL is wrong.
                   Influencer
                   
                     <span class="gh">
-                      ranked 89.9k out of 73m users
+                      ranked 89.9k out of 74m users
                     </span>
                   
                 </div>
@@ -2046,7 +2046,7 @@ It seems that the URL is wrong.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 13 Jul 2021 07:07:24 (timezone Europe/Dublin) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 13 Jul 2021 08:07:06 (timezone Europe/Dublin) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
