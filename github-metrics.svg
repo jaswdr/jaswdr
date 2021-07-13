@@ -1730,7 +1730,7 @@ It seems that the URL is wrong.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.34087108035263 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.34441624432394 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1809,7 +1809,7 @@ It seems that the URL is wrong.
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.542500000000004 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.705 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1833,11 +1833,11 @@ It seems that the URL is wrong.
                   Great maintainer
                   
                     <span class="gh">
-                      ranked 11.2k out of 238m repositories
+                      ranked 11k out of 238m repositories
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 2614 stars</div>
+                                <div class="text">Maintaining a repository with 2644 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2046,7 +2046,7 @@ It seems that the URL is wrong.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 13 Jul 2021 04:07:17 (timezone Europe/Dublin) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 13 Jul 2021 05:07:23 (timezone Europe/Dublin) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
