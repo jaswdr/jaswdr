@@ -41,7 +41,8 @@ jobs:
           plugin_projects: yes
           plugin_projects_limit: 3
           plugin_rss: yes
-          plugin_rss_limit: 4
+          plugin_rss_limit: 3
+          plugin_rss_source: https://jaswdr.dev/blog/index.xml
           plugin_skyline: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
