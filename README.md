@@ -7,8 +7,6 @@
 **System Development Engineer** at @aws :computer:
 
 **OpenSource** contributor and maintainer :octocat:
-
-I like to Record and Share **Knowledge** :cloud:
   
 ![Pt1P](./guy-in-computer.gif)
 
@@ -16,11 +14,11 @@ I like to Record and Share **Knowledge** :cloud:
 
 **Cloud Native, Big Data , Data Analysis and Web services** :cloud:
 
-**Containers, Kubernetes, Docker, Python** :saturn:
+**Containers, Kubernetes, Python, Go and more** :books:
 
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=jaswdr)
 
-#### Feel free to give Your Suggestions, Issues or PRs :earth:
+#### Feel free to give Your Suggestions, Issues or PRs :earth_americas:
   
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaswdr&show_icons=true&theme=tokyonight" />
