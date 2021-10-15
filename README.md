@@ -12,7 +12,7 @@
 
 ## My interest️
 
-**Cloud Native, Big Data , Data Analysis and Web services** :cloud:
+**Cloud Native, Big Data, Data Analysis and Web services** :cloud:
 
 **Containers, Kubernetes, Python, Go and more** :books:
 
