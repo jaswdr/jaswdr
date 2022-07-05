@@ -12,7 +12,7 @@
 
 ## My interest️
 
-**Cloud Native, Big Data, Data Analysis and Data Science** :cloud:
+**SysDE @aws, Go and Python Developer, Cloud, DevOps and future Data Scientist** :cloud:
 
 **Containers, Kubernetes, Python, Go and more** :books:
 
