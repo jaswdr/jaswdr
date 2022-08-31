@@ -2,7 +2,7 @@
   
 <h1>Hi, I'm <a href="https://jaswdr.dev/">Jonathan</a> <img src="./hand.gif" width="25px"> </h1>
   
-[Blog](https://jaswdr.dev):house: | [Linkedin](https://linkedin.com/in/jaswdr) :office:
+[Blog](https://jaswdr.dev):house: | [Linkedin](https://linkedin.com/in/jaswdr) :office: | [CV](https://github.com/jaswdr/cv/raw/gh-pages/Jonathan_Schweder_CV.pdf) :page_facing_up: 
 
 **System Development Engineer** at @aws :computer:
 
