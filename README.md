@@ -22,7 +22,6 @@
   
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaswdr&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswdr&theme=tokyonight" />
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=jaswdr&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
