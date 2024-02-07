@@ -12,7 +12,7 @@
 
 ## My interest️
 
-**SysDE @aws, Go and Python Developer, Cloud, DevOps and future Data Scientist** :cloud:
+**SysDE @aws, Go and Python Developer, Cloud, DevOps** :cloud:
 
 **Containers, Kubernetes, Python, Go and more** :books:
 
