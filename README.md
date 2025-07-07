@@ -4,7 +4,7 @@
   
 [Blog](https://jaswdr.dev):house: | [Linkedin](https://linkedin.com/in/jaswdr) :office: | [CV](https://github.com/jaswdr/cv/raw/gh-pages/Jonathan_Schweder_CV.pdf) :page_facing_up: 
 
-**System Development Engineer** at @mongodb :computer:
+**Software Engineer** at @mongodb :computer:
 
 **OpenSource** contributor and maintainer :octocat:
 
@@ -12,7 +12,7 @@
 
 ## My interest️
 
-**SysDE @aws, Go and Python Developer, Cloud, DevOps** :cloud:
+**Software Engineer @mongodb, Go and Python Developer, Cloud, DevOps** :cloud:
 
 **Containers, Kubernetes, Python, Go and more** :books:
 
