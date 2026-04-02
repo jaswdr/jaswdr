@@ -12,7 +12,7 @@
 
 ## My interest️
 
-**Software Engineer @mongodb, Go and Python Developer, Cloud, DevOps** :cloud:
+**Software Engineer @mongodb, Elixir, Go and Python Developer, Cloud Native, AI Agents
 
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=jaswdr)
 
