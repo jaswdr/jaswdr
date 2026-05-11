@@ -4,7 +4,7 @@
   
 [Blog](https://jaswdr.dev):house: | [Linkedin](https://linkedin.com/in/jaswdr) :office: | [CV](https://github.com/jaswdr/cv/raw/gh-pages/Jonathan_Schweder_CV.pdf) :page_facing_up: 
 
-**Software Engineer** at @mongodb :computer:
+**Senior Backend Engineer** at @remotecom :computer:
 
 **OpenSource** contributor and maintainer :octocat:
 
@@ -12,7 +12,7 @@
 
 ## My interest️
 
-**Senior Software Engineer @remotecom, Elixir, Go and Python Developer, Cloud Native, AI Agents
+**Senior Software Engineer @remotecom, Elixir, Go and Python Developer, Cloud Native, AI Agents**
 
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=jaswdr)
 
