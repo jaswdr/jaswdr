@@ -12,7 +12,7 @@
 
 ## My interest️
 
-**Elixir, Go and Python Developer, Cloud Native, AI Agents**
+**AI, AI Agents, Elixir, Go, Python, Cloud and more**
 
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=jaswdr)
 
